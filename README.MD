@@ -2,7 +2,7 @@
 
 # Harnessing Abstractive Summarization for Fact-Checked Claim Detection
 
-This is the Git repository for our paper titled, "Harnessing Abstractive Summarization for Fact-Checked Claim Detection". The paper is available on [arXiv](https://arxiv.org/abs/2209.04612) and additionally also [here](http://dipteshkanojia.github.io/publication/coling-2022-factcheck/).
+This is the Git repository for our paper titled, "Harnessing Abstractive Summarization for Fact-Checked Claim Detection". Accepted for publication at [COLING 2022](https://coling2022.org) as a long paper. It is available on [arXiv](https://arxiv.org/abs/2209.04612) and additionally also [here](http://dipteshkanojia.github.io/publication/coling-2022-factcheck/).
 
 ## Proposed Workflow
 
