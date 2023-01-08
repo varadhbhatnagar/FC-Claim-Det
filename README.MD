@@ -36,7 +36,13 @@ Note: Some of the tweets corresponding to the IDs may have been deleted due to [
 
 ## Models
 
-Work in progress
+The fine-tuned models with running instructions are available on HuggingFace:
+
+https://huggingface.co/varadhbhatnagar/fc-claim-det-DPEGASUS
+
+https://huggingface.co/varadhbhatnagar/fc-claim-det-DBART
+
+https://huggingface.co/varadhbhatnagar/fc-claim-det-T5-base
 
 ## Citation
 
