@@ -51,14 +51,18 @@ Varad Bhatnagar, Diptesh Kanojia, Kameswari Chebrolu (2022). Harnessing Abstract
 ### BiBTeX Citation
 
 ```latex
-@misc{https://doi.org/10.48550/arxiv.2209.04612,
-  doi = {10.48550/ARXIV.2209.04612},
-  url = {https://arxiv.org/abs/2209.04612},
-  author = {Bhatnagar, Varad and Kanojia, Diptesh and Chebrolu, Kameswari},
-  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Harnessing Abstractive Summarization for Fact-Checked Claim Detection},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}
+@inproceedings{bhatnagar-etal-2022-harnessing,
+    title = "Harnessing Abstractive Summarization for Fact-Checked Claim Detection",
+    author = "Bhatnagar, Varad  and
+      Kanojia, Diptesh  and
+      Chebrolu, Kameswari",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.259",
+    pages = "2934--2945",
+    abstract = "Social media platforms have become new battlegrounds for anti-social elements, with misinformation being the weapon of choice. Fact-checking organizations try to debunk as many claims as possible while staying true to their journalistic processes but cannot cope with its rapid dissemination. We believe that the solution lies in partial automation of the fact-checking life cycle, saving human time for tasks which require high cognition. We propose a new workflow for efficiently detecting previously fact-checked claims that uses abstractive summarization to generate crisp queries. These queries can then be executed on a general-purpose retrieval system associated with a collection of previously fact-checked claims. We curate an abstractive text summarization dataset comprising noisy claims from Twitter and their gold summaries. It is shown that retrieval performance improves 2x by using popular out-of-the-box summarization models and 3x by fine-tuning them on the accompanying dataset compared to verbatim querying. Our approach achieves Recall@5 and MRR of 35{\%} and 0.3, compared to baseline values of 10{\%} and 0.1, respectively. Our dataset, code, and models are available publicly: https://github.com/varadhbhatnagar/FC-Claim-Det/.",
 }
 ```
